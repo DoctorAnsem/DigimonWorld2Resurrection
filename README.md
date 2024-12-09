@@ -11,7 +11,7 @@ This is done via the following core design philosophies:
 - Retranslated and localized Digimon, skill, item, locations and more, in a manner that tries to preserve the original Japanese meaning
 - Digimon skills rebalanced and reworked completely to offer and encourage more versatile builds
 
-NEW in Resurrection Ver 2.0
+### NEW in Resurrection Ver 2.0
 
 - Many script fixes and improvements to remove bugs in the vanilla game, and more streamlined dungeon progression to allow more coherent storytelling at times
 - Additional story elements and lore inserted where appropriate, without removing any aspects of the original story 
@@ -38,8 +38,15 @@ NEW in Resurrection Ver 2.0
 - Retranslated all items and key items properly
 
 
+## INSTRUCTIONS:
 
-CREDITS:
+You will require a 100% unmodified Digimon World 2 (USA) ROM. For legal reasons, such will not be distributed with this mod, nor will you receive any support in obtaining one - that responsibility is entirely on you, the end user.
+Once you have the ROM, use Delta Patcher or any suitable alternative to apply the .xdelta patch provided. This will patch your vanilla Digimon World 2 into Digimon World 2 Resurrection.
+
+The mod has been developed with Duckstation as the medium, with specific settings - images will be provided as to which. This will be the reference point for "optimal" experience.
+
+
+## CREDITS:
 
 Ansem
 - Project author, creator and developer

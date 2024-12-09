@@ -26,7 +26,6 @@ This is done via the following core design philosophies:
 	- Z Cannon respects the new damage calculation and it has been mildly buffed
 - Improved visual effects for some techs. We love flair
 - Added many new music tracks and variations so that you no longer have to hear the same tracks over and over again for 120 hours
-	- An album with some of the greatest hits will be released together with the mod
 - Visual overhaul of the menu and battle HUD to add some color and decor (I had enough of that toxin green, for one)
 - A completely new balance pass for the entire game, adjusting difficulty to scale better for the endgame and catching old bugs that flew under radar
 - Slightly improved dungeons:
@@ -67,3 +66,9 @@ Remy, Luminaires, Acemon33
 
 Nukelasi
 - Additional testing pass, catching bugs that could have flown under the radar and broken the game
+
+
+
+## SOUNDTRACK
+A selection of the greatest hits added to Resurrection will become available on 24th of December, 2024 on this playlist:
+https://youtube.com/playlist?list=PLXOyJr2hYj3565k5Xxb70Wliv8d3lnBR-

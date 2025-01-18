@@ -5,11 +5,13 @@ It is not meant to replace, but enhance - revitalize the spirit of the original 
 
 This is done via the following core design philosophies:
 
+- Slightly altered damage calculation and related functions to put strategic emphasis on advantages you can more readily control
 - Redesigned all boss battles to be more complex and offer a challenge that will encourage strategic thinking
 - Experience rewards scaled in a way that grinding will be a bit more rewarding the more you progress through the game
 - Evolutions and DNA tables adjusted and expanded in a way that you have less chances of getting stuck with certain bloodlines
 - Retranslated and localized Digimon, skill, item, locations and more, in a manner that tries to preserve the original Japanese meaning
 - Digimon skills rebalanced and reworked completely to offer and encourage more versatile builds
+- Restored some cut content such as unused Digimon and skills
 
 ### NEW in Resurrection Ver 2.0
 
@@ -70,5 +72,5 @@ Nukelasi
 
 
 ## SOUNDTRACK
-A selection of the greatest hits added to Resurrection will become available on 24th of December, 2024 on this playlist:
+A selection of the greatest hits added to Resurrection is available as of 24th of December, 2024 on this playlist:
 https://youtube.com/playlist?list=PLXOyJr2hYj3565k5Xxb70Wliv8d3lnBR-

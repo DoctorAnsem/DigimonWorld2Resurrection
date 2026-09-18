@@ -1,0 +1,6162 @@
+{
+  "format": "dw2-wazanam",
+  "version": 1,
+  "entries": [
+    {
+      "_index": 0,
+      "descriptors": [
+        {
+          "file_id": "0x054F",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 1,
+      "descriptors": [
+        {
+          "file_id": "0x041F",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 2,
+      "descriptors": [
+        {
+          "file_id": "0x02F8",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 3,
+      "descriptors": [
+        {
+          "file_id": "0x06AD",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 4,
+      "descriptors": [
+        {
+          "file_id": "0x06A5",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 5,
+      "descriptors": [
+        {
+          "file_id": "0x06A0",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 6,
+      "descriptors": [
+        {
+          "file_id": "0x06A5",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 7,
+      "descriptors": [
+        {
+          "file_id": "0x02F8",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 8,
+      "descriptors": [
+        {
+          "file_id": "0x0AF9",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 9,
+      "descriptors": [
+        {
+          "file_id": "0x042C",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 10,
+      "descriptors": [
+        {
+          "file_id": "0x0424",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 11,
+      "descriptors": [
+        {
+          "file_id": "0x054D",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 12,
+      "descriptors": [
+        {
+          "file_id": "0x052E",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 13,
+      "descriptors": [
+        {
+          "file_id": "0x041F",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 14,
+      "descriptors": [
+        {
+          "file_id": "0x044B",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 15,
+      "descriptors": [
+        {
+          "file_id": "0x052B",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 16,
+      "descriptors": [
+        {
+          "file_id": "0x06AC",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 17,
+      "descriptors": [
+        {
+          "file_id": "0x06AF",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 18,
+      "descriptors": [
+        {
+          "file_id": "0x069F",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 19,
+      "descriptors": [
+        {
+          "file_id": "0x0426",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 20,
+      "descriptors": [
+        {
+          "file_id": "0x06A7",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 21,
+      "descriptors": [
+        {
+          "file_id": "0x042C",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 22,
+      "descriptors": [
+        {
+          "file_id": "0x0551",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 23,
+      "descriptors": [
+        {
+          "file_id": "0x06B1",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 24,
+      "descriptors": [
+        {
+          "file_id": "0x052D",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 25,
+      "descriptors": [
+        {
+          "file_id": "0x0AFD",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 26,
+      "descriptors": [
+        {
+          "file_id": "0x044C",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 27,
+      "descriptors": [
+        {
+          "file_id": "0x052C",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 28,
+      "descriptors": [
+        {
+          "file_id": "0x052C",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 29,
+      "descriptors": [
+        {
+          "file_id": "0x06A7",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 30,
+      "descriptors": [
+        {
+          "file_id": "0x0505",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 31,
+      "descriptors": [
+        {
+          "file_id": "0x044D",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 32,
+      "descriptors": [
+        {
+          "file_id": "0x06AA",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 33,
+      "descriptors": [
+        {
+          "file_id": "0x06A8",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 34,
+      "descriptors": [
+        {
+          "file_id": "0x06AA",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 35,
+      "descriptors": [
+        {
+          "file_id": "0x0427",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 36,
+      "descriptors": [
+        {
+          "file_id": "0x06AF",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 37,
+      "descriptors": [
+        {
+          "file_id": "0x052D",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 38,
+      "descriptors": [
+        {
+          "file_id": "0x06A9",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 39,
+      "descriptors": [
+        {
+          "file_id": "0x052A",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 40,
+      "descriptors": [
+        {
+          "file_id": "0x042A",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 41,
+      "descriptors": [
+        {
+          "file_id": "0x0423",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 42,
+      "descriptors": [
+        {
+          "file_id": "0x06B1",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 43,
+      "descriptors": [
+        {
+          "file_id": "0x042F",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 44,
+      "descriptors": [
+        {
+          "file_id": "0x06B0",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 45,
+      "descriptors": [
+        {
+          "file_id": "0x0504",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 46,
+      "descriptors": [
+        {
+          "file_id": "0x06B2",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 47,
+      "descriptors": [
+        {
+          "file_id": "0x0427",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 48,
+      "descriptors": [
+        {
+          "file_id": "0x06A2",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 49,
+      "descriptors": [
+        {
+          "file_id": "0x06AE",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 50,
+      "descriptors": [
+        {
+          "file_id": "0x06AC",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 51,
+      "descriptors": [
+        {
+          "file_id": "0x0423",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 52,
+      "descriptors": [
+        {
+          "file_id": "0x0550",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 53,
+      "descriptors": [
+        {
+          "file_id": "0x0AF6",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 54,
+      "descriptors": [
+        {
+          "file_id": "0x0AFC",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 55,
+      "descriptors": [
+        {
+          "file_id": "0x042B",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 56,
+      "descriptors": [
+        {
+          "file_id": "0x0550",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 57,
+      "descriptors": [
+        {
+          "file_id": "0x0504",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 58,
+      "descriptors": [
+        {
+          "file_id": "0x0AF6",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 59,
+      "descriptors": [
+        {
+          "file_id": "0x0430",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 60,
+      "descriptors": [
+        {
+          "file_id": "0x06A1",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 61,
+      "descriptors": [
+        {
+          "file_id": "0x044C",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 62,
+      "descriptors": [
+        {
+          "file_id": "0x06B6",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 63,
+      "descriptors": [
+        {
+          "file_id": "0x0AFB",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 64,
+      "descriptors": [
+        {
+          "file_id": "0x0AFB",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 65,
+      "descriptors": [
+        {
+          "file_id": "0x0AF6",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 66,
+      "descriptors": [
+        {
+          "file_id": "0x054E",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 67,
+      "descriptors": [
+        {
+          "file_id": "0x0AF7",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 68,
+      "descriptors": [
+        {
+          "file_id": "0x06AB",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 69,
+      "descriptors": [
+        {
+          "file_id": "0x0AF7",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 70,
+      "descriptors": [
+        {
+          "file_id": "0x054F",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 71,
+      "descriptors": [
+        {
+          "file_id": "0x06AF",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 72,
+      "descriptors": [
+        {
+          "file_id": "0x06B6",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 73,
+      "descriptors": [
+        {
+          "file_id": "0x041D",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 74,
+      "descriptors": [
+        {
+          "file_id": "0x06B0",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 75,
+      "descriptors": [
+        {
+          "file_id": "0x06A3",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 76,
+      "descriptors": [
+        {
+          "file_id": "0x06A2",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 77,
+      "descriptors": [
+        {
+          "file_id": "0x06A8",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 78,
+      "descriptors": [
+        {
+          "file_id": "0x042B",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 79,
+      "descriptors": [
+        {
+          "file_id": "0x0425",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 80,
+      "descriptors": [
+        {
+          "file_id": "0x06A8",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 81,
+      "descriptors": [
+        {
+          "file_id": "0x052C",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 82,
+      "descriptors": [
+        {
+          "file_id": "0x06A9",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 83,
+      "descriptors": [
+        {
+          "file_id": "0x0430",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 84,
+      "descriptors": [
+        {
+          "file_id": "0x044D",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 85,
+      "descriptors": [
+        {
+          "file_id": "0x0427",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 86,
+      "descriptors": [
+        {
+          "file_id": "0x041E",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 87,
+      "descriptors": [
+        {
+          "file_id": "0x0422",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 88,
+      "descriptors": [
+        {
+          "file_id": "0x0AFA",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 89,
+      "descriptors": [
+        {
+          "file_id": "0x042D",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 90,
+      "descriptors": [
+        {
+          "file_id": "0x052B",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 91,
+      "descriptors": [
+        {
+          "file_id": "0x06B0",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 92,
+      "descriptors": [
+        {
+          "file_id": "0x0420",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 93,
+      "descriptors": [
+        {
+          "file_id": "0x06B2",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 94,
+      "descriptors": [
+        {
+          "file_id": "0x0AFB",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 95,
+      "descriptors": [
+        {
+          "file_id": "0x06A7",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 96,
+      "descriptors": [
+        {
+          "file_id": "0x069F",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 97,
+      "descriptors": [
+        {
+          "file_id": "0x0AF5",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 98,
+      "descriptors": [
+        {
+          "file_id": "0x06A5",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 99,
+      "descriptors": [
+        {
+          "file_id": "0x0550",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 100,
+      "descriptors": [
+        {
+          "file_id": "0x052D",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 101,
+      "descriptors": [
+        {
+          "file_id": "0x0AFE",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 102,
+      "descriptors": [
+        {
+          "file_id": "0x0420",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 103,
+      "descriptors": [
+        {
+          "file_id": "0x052E",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 104,
+      "descriptors": [
+        {
+          "file_id": "0x0AFA",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 105,
+      "descriptors": [
+        {
+          "file_id": "0x0AFC",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 106,
+      "descriptors": [
+        {
+          "file_id": "0x0424",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 107,
+      "descriptors": [
+        {
+          "file_id": "0x06AE",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 108,
+      "descriptors": [
+        {
+          "file_id": "0x0AF8",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 109,
+      "descriptors": [
+        {
+          "file_id": "0x041D",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 110,
+      "descriptors": [
+        {
+          "file_id": "0x054F",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 111,
+      "descriptors": [
+        {
+          "file_id": "0x042B",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 112,
+      "descriptors": [
+        {
+          "file_id": "0x06B2",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 113,
+      "descriptors": [
+        {
+          "file_id": "0x0428",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 114,
+      "descriptors": [
+        {
+          "file_id": "0x0428",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 115,
+      "descriptors": [
+        {
+          "file_id": "0x06B4",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 116,
+      "descriptors": [
+        {
+          "file_id": "0x06A6",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 117,
+      "descriptors": [
+        {
+          "file_id": "0x0421",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 118,
+      "descriptors": [
+        {
+          "file_id": "0x0AF5",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 119,
+      "descriptors": [
+        {
+          "file_id": "0x06AD",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 120,
+      "descriptors": [
+        {
+          "file_id": "0x0AFD",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 121,
+      "descriptors": [
+        {
+          "file_id": "0x06A0",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 122,
+      "descriptors": [
+        {
+          "file_id": "0x0AFA",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 123,
+      "descriptors": [
+        {
+          "file_id": "0x0424",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 124,
+      "descriptors": [
+        {
+          "file_id": "0x0422",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 125,
+      "descriptors": [
+        {
+          "file_id": "0x0AF9",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 126,
+      "descriptors": [
+        {
+          "file_id": "0x06AA",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 127,
+      "descriptors": [
+        {
+          "file_id": "0x0429",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 128,
+      "descriptors": [
+        {
+          "file_id": "0x06AD",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 129,
+      "descriptors": [
+        {
+          "file_id": "0x0421",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 130,
+      "descriptors": [
+        {
+          "file_id": "0x054D",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 131,
+      "descriptors": [
+        {
+          "file_id": "0x06A4",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 132,
+      "descriptors": [
+        {
+          "file_id": "0x054E",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 133,
+      "descriptors": [
+        {
+          "file_id": "0x0505",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 134,
+      "descriptors": [
+        {
+          "file_id": "0x0AF7",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 135,
+      "descriptors": [
+        {
+          "file_id": "0x06A1",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 136,
+      "descriptors": [
+        {
+          "file_id": "0x06A1",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 137,
+      "descriptors": [
+        {
+          "file_id": "0x0AFD",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 138,
+      "descriptors": [
+        {
+          "file_id": "0x042F",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 139,
+      "descriptors": [
+        {
+          "file_id": "0x06B4",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 140,
+      "descriptors": [
+        {
+          "file_id": "0x02F8",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 141,
+      "descriptors": [
+        {
+          "file_id": "0x052E",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 142,
+      "descriptors": [
+        {
+          "file_id": "0x06B3",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 143,
+      "descriptors": [
+        {
+          "file_id": "0x06A3",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 144,
+      "descriptors": [
+        {
+          "file_id": "0x06A4",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 145,
+      "descriptors": [
+        {
+          "file_id": "0x0AF5",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 146,
+      "descriptors": [
+        {
+          "file_id": "0x0AF8",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 147,
+      "descriptors": [
+        {
+          "file_id": "0x052A",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 148,
+      "descriptors": [
+        {
+          "file_id": "0x0426",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 149,
+      "descriptors": [
+        {
+          "file_id": "0x0421",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 150,
+      "descriptors": [
+        {
+          "file_id": "0x06B1",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 151,
+      "descriptors": [
+        {
+          "file_id": "0x0AF9",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 152,
+      "descriptors": [
+        {
+          "file_id": "0x06A6",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 153,
+      "descriptors": [
+        {
+          "file_id": "0x0AF8",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 154,
+      "descriptors": [
+        {
+          "file_id": "0x06AB",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 155,
+      "descriptors": [
+        {
+          "file_id": "0x042E",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 156,
+      "descriptors": [
+        {
+          "file_id": "0x052B",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 157,
+      "descriptors": [
+        {
+          "file_id": "0x0551",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 158,
+      "descriptors": [
+        {
+          "file_id": "0x054E",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 159,
+      "descriptors": [
+        {
+          "file_id": "0x041F",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 160,
+      "descriptors": [
+        {
+          "file_id": "0x0AFE",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 161,
+      "descriptors": [
+        {
+          "file_id": "0x0AFC",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 162,
+      "descriptors": [
+        {
+          "file_id": "0x0430",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 163,
+      "descriptors": [
+        {
+          "file_id": "0x041E",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 164,
+      "descriptors": [
+        {
+          "file_id": "0x054D",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 165,
+      "descriptors": [
+        {
+          "file_id": "0x0504",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 166,
+      "descriptors": [
+        {
+          "file_id": "0x042A",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 167,
+      "descriptors": [
+        {
+          "file_id": "0x042C",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 168,
+      "descriptors": [
+        {
+          "file_id": "0x06AE",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 169,
+      "descriptors": [
+        {
+          "file_id": "0x0505",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 170,
+      "descriptors": [
+        {
+          "file_id": "0x06A3",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 171,
+      "descriptors": [
+        {
+          "file_id": "0x042E",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 172,
+      "descriptors": [
+        {
+          "file_id": "0x0420",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 173,
+      "descriptors": [
+        {
+          "file_id": "0x0422",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 174,
+      "descriptors": [
+        {
+          "file_id": "0x041D",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 175,
+      "descriptors": [
+        {
+          "file_id": "0x0426",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 176,
+      "descriptors": [
+        {
+          "file_id": "0x06B3",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 177,
+      "descriptors": [
+        {
+          "file_id": "0x06A2",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 178,
+      "descriptors": [
+        {
+          "file_id": "0x069F",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 179,
+      "descriptors": [
+        {
+          "file_id": "0x0429",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 180,
+      "descriptors": [
+        {
+          "file_id": "0x0425",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 181,
+      "descriptors": [
+        {
+          "file_id": "0x06A4",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 182,
+      "descriptors": [
+        {
+          "file_id": "0x044C",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 183,
+      "descriptors": [
+        {
+          "file_id": "0x06B4",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 184,
+      "descriptors": [
+        {
+          "file_id": "0x0423",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 185,
+      "descriptors": [
+        {
+          "file_id": "0x042D",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 186,
+      "descriptors": [
+        {
+          "file_id": "0x0425",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 187,
+      "descriptors": [
+        {
+          "file_id": "0x06AB",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 188,
+      "descriptors": [
+        {
+          "file_id": "0x042A",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 189,
+      "descriptors": [
+        {
+          "file_id": "0x0AFE",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 190,
+      "descriptors": [
+        {
+          "file_id": "0x042E",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 191,
+      "descriptors": [
+        {
+          "file_id": "0x06A9",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 192,
+      "descriptors": [
+        {
+          "file_id": "0x06B6",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 193,
+      "descriptors": [
+        {
+          "file_id": "0x044B",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 194,
+      "descriptors": [
+        {
+          "file_id": "0x06A0",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 195,
+      "descriptors": [
+        {
+          "file_id": "0x044D",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 196,
+      "descriptors": [
+        {
+          "file_id": "0x0551",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 197,
+      "descriptors": [
+        {
+          "file_id": "0x0429",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 198,
+      "descriptors": [
+        {
+          "file_id": "0x052A",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 199,
+      "descriptors": [
+        {
+          "file_id": "0x0428",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 200,
+      "descriptors": [
+        {
+          "file_id": "0x06AC",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 201,
+      "descriptors": [
+        {
+          "file_id": "0x044B",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 202,
+      "descriptors": [
+        {
+          "file_id": "0x042D",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 203,
+      "descriptors": [
+        {
+          "file_id": "0x042F",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 204,
+      "descriptors": [
+        {
+          "file_id": "0x041E",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 205,
+      "descriptors": [
+        {
+          "file_id": "0x06A6",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 206,
+      "descriptors": [
+        {
+          "file_id": "0x06B3",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 207,
+      "descriptors": [
+        {
+          "file_id": "0x0C6B",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 208,
+      "descriptors": [
+        {
+          "file_id": "0x0C6B",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 209,
+      "descriptors": [
+        {
+          "file_id": "0x0C6B",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 210,
+      "descriptors": [
+        {
+          "file_id": "0x0E47",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 211,
+      "descriptors": [
+        {
+          "file_id": "0x0E47",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 212,
+      "descriptors": [
+        {
+          "file_id": "0x0E47",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 213,
+      "descriptors": [
+        {
+          "file_id": "0x0E48",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 214,
+      "descriptors": [
+        {
+          "file_id": "0x0E48",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 215,
+      "descriptors": [
+        {
+          "file_id": "0x0E48",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 216,
+      "descriptors": [
+        {
+          "file_id": "0x0E49",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 217,
+      "descriptors": [
+        {
+          "file_id": "0x0E49",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 218,
+      "descriptors": [
+        {
+          "file_id": "0x0E49",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 219,
+      "descriptors": [
+        {
+          "file_id": "0x0E4A",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 220,
+      "descriptors": [
+        {
+          "file_id": "0x0E4A",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 221,
+      "descriptors": [
+        {
+          "file_id": "0x0E4A",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 222,
+      "descriptors": [
+        {
+          "file_id": "0x0E4B",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 223,
+      "descriptors": [
+        {
+          "file_id": "0x0E4B",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 224,
+      "descriptors": [
+        {
+          "file_id": "0x0E4B",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 225,
+      "descriptors": [
+        {
+          "file_id": "0x0E4C",
+          "entry_id": "0x0001",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 226,
+      "descriptors": [
+        {
+          "file_id": "0x0E4C",
+          "entry_id": "0x0002",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    },
+    {
+      "_index": 227,
+      "descriptors": [
+        {
+          "file_id": "0x0E4C",
+          "entry_id": "0x0003",
+          "x": -96,
+          "y": 84,
+          "red": 128,
+          "green": 128,
+          "blue": 128,
+          "texture_slot": 0,
+          "texture_offset": 0,
+          "selector": 0,
+          "transform_flag": 1,
+          "visible": 1,
+          "scale_x": 4096,
+          "scale_y": 4096,
+          "scale_z": 4096,
+          "display_mask": "0x00000002",
+          "rotation_x": 0,
+          "rotation_y": 0,
+          "rotation_z": 0,
+          "padding": 0
+        }
+      ]
+    }
+  ]
+}
